@@ -5,4 +5,4 @@ All official Android firmware for Orange Pi 5\5B\5Plus has problems with decodin
 Download [Release](https://github.com/shiyunjin/Orange-Pi-5-Plus-Android-TV-12-Fix-Video/releases) and use Magisk install
 
 ## Tested Rom Version
- * OrangePi5Plus-RK3588_Android12-box_v1.0.0.tar.gz
+ * OrangePi5Plus-RK3588_Android12-box_v1.0.0.tar.gz [Download Link](https://drive.google.com/file/d/1oyPoUTUPhVSqmwT-SSkec1nOau_70LTC/view)
